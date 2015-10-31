@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{56A7C16E-4D2A-3056-DA7D-85B052FF18FD}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_2;UNITY_4_6;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_IL2CPP;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;UNITY5_SCRIPTING_IN_UNITY4;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Cardboard\DemoScene\Teleport.cs" />
+     <Compile Include="Assets\Cardboard\Legacy\DemoScene\TeleportLegacyUI.cs" />
+     <Compile Include="Assets\Cardboard\Legacy\Scripts\CardboardOnGUI.cs" />
+     <Compile Include="Assets\Cardboard\Legacy\Scripts\CardboardOnGUIMouse.cs" />
+     <Compile Include="Assets\Cardboard\Legacy\Scripts\CardboardOnGUIWindow.cs" />
+     <Compile Include="Assets\Cardboard\Legacy\Scripts\SkyboxMesh.cs" />
+     <Compile Include="Assets\Cardboard\Legacy\Scripts\StereoLensFlare.cs" />
+     <Compile Include="Assets\Cardboard\Scripts\Cardboard.cs" />
+     <Compile Include="Assets\Cardboard\Scripts\CardboardEye.cs" />
+     <Compile Include="Assets\Cardboard\Scripts\CardboardHead.cs" />
+     <Compile Include="Assets\Cardboard\Scripts\CardboardProfile.cs" />
+     <Compile Include="Assets\Cardboard\Scripts\GazeInputModule.cs" />
+     <Compile Include="Assets\Cardboard\Scripts\RadialUndistortionEffect.cs" />
+     <Compile Include="Assets\Cardboard\Scripts\StereoController.cs" />
+     <Compile Include="Assets\Scripts\turn_Moon.cs" />
+     <Compile Include="Assets\Scripts\turn_earth.cs" />
+     <Compile Include="Assets\Scripts\turn_hst.cs" />
+     <Compile Include="Assets\Scripts\turn_jupiter.cs" />
+     <Compile Include="Assets\Scripts\turn_mars.cs" />
+     <Compile Include="Assets\Scripts\turn_mercury.cs" />
+     <Compile Include="Assets\Scripts\turn_neptun.cs" />
+     <Compile Include="Assets\Scripts\turn_pluto.cs" />
+     <Compile Include="Assets\Scripts\turn_satellite.cs" />
+     <Compile Include="Assets\Scripts\turn_saturn.cs" />
+     <Compile Include="Assets\Scripts\turn_uranus.cs" />
+     <Compile Include="Assets\Scripts\turn_venus.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtDebugMesh.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtDemoGui.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtDepthTextureMode.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtGravityReceiver.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtGravitySource.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtHideWireframe.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtKeyboardMove.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtMouseLook.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtMove.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtProceduralSystem.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtRotate.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtSimpleOrbit.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtSpacetimeBomb.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtSpacetimeBombs.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtTooltip.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtTwirl.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Scripts\SgtVelocity.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtBeltAsteroid.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtBeltAsteroidVariant.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtClassPool.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtComponentPool.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtCoronaOuter.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtEditorHelper.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtHelper.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtNebulaSource.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtObjectPool.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtOutputMode.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtPatchBuilder.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtProceduralMesh.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtRangeAttribute.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtRenderQueue.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtSeedAttribute.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Library\SgtStarfieldStar.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtAccretion.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtAdvancedBelt.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtAtmosphere.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtBelt.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtBeltGroup.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtBeltModel.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtCloudsphere.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtCloudsphereModel.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtCorona.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtCustomBelt.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtCustomStarfield.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtDisplacedTerrain.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtEllipticalStarfield.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtJovian.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtJovianModel.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtNebulaStarfield.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtObserver.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtPatch.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtProminence.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtProminencePlane.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtRing.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtRingSegment.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtRingShadow.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtShadow.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtSimpleBelt.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtSingularity.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtSingularityModel.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtSpacetime.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtSpacetimeWell.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtSphereShadow.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtSpiralStarfield.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtStarfield.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtStarfieldGroup.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtStarfieldModel.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtTerrain.cs" />
+     <Compile Include="Assets\Space Graphics Toolkit\Scripts\Player\SgtWrappedStarfield.cs" />
+     <None Include="Assets\Cardboard\Legacy\Resources\SkyboxMesh.shader" />
+     <None Include="Assets\Space Graphics Toolkit\Examples\Basic Pack\Shaders\SgtTerrainDebug.shader" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtAtmosphereInner.shader" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtShadow.cginc" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtLight.cginc" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtSingularity.shader" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtAtmosphereOuter.shader" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtSpacetime.shader" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtCoronaInner.shader" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtAccretion.shader" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtCloudsphere.shader" />
+     <None Include="Assets\Cardboard\Legacy\Resources\GUIScreen.shader" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtStarfield.shader" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtProminence.shader" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtBelt.shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtRing.shader" />
+     <None Include="Assets\Cardboard\Resources\RadialUndistortionEffect.shader" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtCoronaOuter.shader" />
+     <None Include="Assets\Cardboard\Resources\SolidColor.shader" />
+     <None Include="Assets\Space Graphics Toolkit\Shaders\Resources\SgtJovian.shader" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

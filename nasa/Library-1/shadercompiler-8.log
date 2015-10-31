@@ -1,0 +1,1013 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-8-5760
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=1310 kw=DUMMY SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=1607 kw=DUMMY SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=1666 kw=DUMMY SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=2051 kw=DUMMY SGT_D SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=2210 kw=DUMMY SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=2522 kw=DUMMY SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=2606 kw=DUMMY SGT_D SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=2619 kw=DUMMY SGT_D SGT_C SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=2903 kw=DUMMY SGT_D SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=3066 kw=DUMMY SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=3079 kw=DUMMY SGT_D SGT_C SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=1350 kw=DUMMY SGT_D SGT_C LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=1647 kw=DUMMY SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=1673 kw=DUMMY SGT_C SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=1458 kw=DUMMY SGT_D LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=1565 kw=DUMMY SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=1755 kw=DUMMY SGT_A LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=1840 kw=DUMMY SGT_A SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=1458 kw=DUMMY LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=1565 kw=DUMMY SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=1543 kw=DUMMY SGT_D SGT_C SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=1840 kw=DUMMY SGT_A SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=1862 kw=DUMMY SGT_C SGT_A SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=2659 kw=DUMMY LIGHT_1 SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=2744 kw=DUMMY LIGHT_1 SGT_D SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=2231 kw=DUMMY LIGHT_1 SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=3003 kw=DUMMY LIGHT_1 SGT_D SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=3647 kw=DUMMY LIGHT_1 SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=3737 kw=DUMMY LIGHT_1 SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=3885 kw=DUMMY LIGHT_1 SGT_D SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=3977 kw=DUMMY LIGHT_1 SGT_D SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=4136 kw=DUMMY LIGHT_1 SGT_D SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=4224 kw=DUMMY LIGHT_1 SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=2374 kw=DUMMY LIGHT_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=2659 kw=DUMMY LIGHT_2 SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=2459 kw=DUMMY LIGHT_2 SGT_D SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=2623 kw=DUMMY LIGHT_2 SGT_D SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=2708 kw=DUMMY LIGHT_2 SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=3003 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=3816 kw=DUMMY LIGHT_2 SGT_D SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=3899 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=3853 kw=DUMMY LIGHT_2 SGT_D SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=4442 kw=DUMMY LIGHT_2 SGT_D SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4492 outsize=4532 kw=DUMMY LIGHT_2 SGT_D SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=4682 kw=DUMMY LIGHT_2 SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4492 outsize=4772 kw=DUMMY LIGHT_2 SGT_D SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY SGT_D SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY SGT_D SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY SGT_D SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY SGT_D SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY SGT_D SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY SGT_C SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY SGT_D SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY SGT_D SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY SGT_C SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY SGT_C LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY SGT_C SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY SGT_D SGT_C SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY SGT_D SGT_C SGT_A SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY SGT_C LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY SGT_C SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY SGT_C SGT_A LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY SGT_C SGT_A SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY SGT_D SGT_C LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY SGT_D SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY SGT_A LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY SGT_D SGT_A SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY LIGHT_1 SGT_D ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY LIGHT_1 SGT_D SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY LIGHT_1 SGT_D SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY LIGHT_1 SGT_D SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY LIGHT_1 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY LIGHT_1 SGT_D SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY LIGHT_1 SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY LIGHT_1 SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY LIGHT_1 SGT_D SGT_C SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY LIGHT_1 SGT_D SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY LIGHT_1 SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY LIGHT_1 SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY LIGHT_2 SGT_C ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY LIGHT_2 SGT_D SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY LIGHT_2 SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY LIGHT_2 SGT_C SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY LIGHT_2 SGT_C SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_C SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4492 outsize=7 kw=DUMMY LIGHT_2 SGT_C SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4492 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=2234 outsize=1986 kw=SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=2234 outsize=7 kw=SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1699 outsize=1275 kw=DUMMY ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1699 outsize=6 kw=DUMMY ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3853 outsize=4577 kw=DUMMY LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3853 outsize=3633 kw=DUMMY SGT_E SGT_D ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3853 outsize=3161 kw=DUMMY SGT_E SGT_C ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=3853 outsize=4093 kw=DUMMY SGT_E SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3853 outsize=4531 kw=DUMMY SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3853 outsize=5466 kw=DUMMY SGT_D SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3853 outsize=4996 kw=DUMMY SGT_C SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=3853 outsize=6394 kw=DUMMY SGT_E SGT_D SGT_C SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=3853 outsize=1768 kw=DUMMY SGT_D SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3853 outsize=6606 kw=DUMMY SGT_E SGT_D SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3853 outsize=6606 kw=DUMMY SGT_E SGT_D SGT_C SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3853 outsize=1774 kw=DUMMY SGT_D SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3853 outsize=6532 kw=DUMMY SGT_E SGT_D SGT_A SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3853 outsize=4139 kw=DUMMY SGT_E SGT_D SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3853 outsize=7 kw=DUMMY SGT_E ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3853 outsize=7 kw=DUMMY SGT_E SGT_D ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3853 outsize=6 kw=DUMMY SGT_E SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3853 outsize=7 kw=DUMMY SGT_D SGT_C LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3853 outsize=7 kw=DUMMY SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3853 outsize=7 kw=DUMMY SGT_D SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3853 outsize=7 kw=DUMMY SGT_E SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3853 outsize=7 kw=DUMMY SGT_E SGT_D SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3853 outsize=7 kw=DUMMY SGT_E SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3853 outsize=7 kw=DUMMY SGT_E SGT_D SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3853 outsize=6 kw=DUMMY SGT_E SGT_C SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3853 outsize=6 kw=DUMMY SGT_E SGT_D SGT_C SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3853 outsize=7 kw=DUMMY SGT_A SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3853 outsize=6 kw=DUMMY SGT_D SGT_A SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3853 outsize=6 kw=DUMMY SGT_E SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3853 outsize=7 kw=DUMMY SGT_E SGT_D SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4077 outsize=2355 kw=DUMMY LIGHT_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4077 outsize=2737 kw=DUMMY LIGHT_2 LIGHT_1 SGT_E ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4077 outsize=2684 kw=DUMMY LIGHT_2 SGT_E SGT_D ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4077 outsize=1394 kw=DUMMY LIGHT_1 SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4077 outsize=2516 kw=DUMMY LIGHT_2 SGT_E SGT_C ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4077 outsize=2533 kw=DUMMY LIGHT_2 SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4077 outsize=1937 kw=DUMMY SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4077 outsize=2106 kw=DUMMY SGT_E SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4077 outsize=2112 kw=DUMMY SGT_D SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4077 outsize=3202 kw=DUMMY LIGHT_2 LIGHT_1 SGT_D SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4077 outsize=2504 kw=DUMMY LIGHT_1 SGT_E SGT_D SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4077 outsize=1787 kw=DUMMY LIGHT_1 SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4077 outsize=2078 kw=DUMMY LIGHT_1 SGT_E SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4077 outsize=2918 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4077 outsize=3100 kw=LIGHT_2 LIGHT_1 SGT_E SGT_D SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4077 outsize=2944 kw=DUMMY LIGHT_2 SGT_E SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4077 outsize=2335 kw=DUMMY LIGHT_1 SGT_D SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4077 outsize=2270 kw=DUMMY SGT_E SGT_D SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4077 outsize=3342 kw=DUMMY LIGHT_2 LIGHT_1 SGT_E SGT_D SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4077 outsize=2918 kw=DUMMY LIGHT_2 LIGHT_1 SGT_E SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4077 outsize=3091 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4077 outsize=7 kw=DUMMY ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=DUMMY LIGHT_2 LIGHT_1 SGT_E ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4077 outsize=7 kw=DUMMY LIGHT_2 LIGHT_1 SGT_D ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4077 outsize=7 kw=DUMMY LIGHT_2 SGT_E SGT_D ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=DUMMY LIGHT_2 LIGHT_1 SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4077 outsize=7 kw=DUMMY LIGHT_2 SGT_E SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4077 outsize=7 kw=DUMMY LIGHT_2 LIGHT_1 SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4077 outsize=7 kw=DUMMY LIGHT_2 LIGHT_1 SGT_E SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4077 outsize=7 kw=DUMMY LIGHT_2 LIGHT_1 SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4077 outsize=7 kw=DUMMY LIGHT_2 LIGHT_1 SGT_E SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=DUMMY LIGHT_2 SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=DUMMY LIGHT_2 SGT_E SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=DUMMY LIGHT_2 SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=DUMMY LIGHT_2 SGT_E SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4077 outsize=7 kw=DUMMY SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=DUMMY LIGHT_2 SGT_E SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=DUMMY LIGHT_2 LIGHT_1 SGT_D SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4077 outsize=6 kw=LIGHT_2 LIGHT_1 SGT_E SGT_D SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=3342 outsize=1527 kw=DUMMY SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=3342 outsize=808 kw=DUMMY SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3342 outsize=940 kw=SGT_A LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3342 outsize=1864 kw=DUMMY LIGHT_1 SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3342 outsize=3056 kw=LIGHT_1 SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=3342 outsize=3165 kw=LIGHT_2 SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3342 outsize=7 kw=DUMMY SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3342 outsize=6 kw=DUMMY LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3342 outsize=6 kw=DUMMY LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3342 outsize=6 kw=DUMMY LIGHT_1 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3342 outsize=6 kw=DUMMY LIGHT_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3342 outsize=6 kw=DUMMY LIGHT_2 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=2768 outsize=1673 kw=DUMMY SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=2768 outsize=2903 kw=DUMMY SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=2768 outsize=1834 kw=SGT_A LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=2768 outsize=2896 kw=LIGHT_1 SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=2768 outsize=3331 kw=LIGHT_2 SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=2768 outsize=7 kw=DUMMY SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=2768 outsize=6 kw=DUMMY SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=2768 outsize=6 kw=DUMMY LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=2768 outsize=6 kw=DUMMY LIGHT_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=2768 outsize=7 kw=LIGHT_1 SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=2768 outsize=7 kw=LIGHT_2 SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=2012 outsize=1360 kw=DUMMY SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=2012 outsize=7 kw=DUMMY ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=1285 kw=DUMMY SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=1396 kw=DUMMY SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=1608 kw=DUMMY SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=1693 kw=DUMMY SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=2067 kw=DUMMY SGT_D SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=2226 kw=DUMMY SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=2349 kw=DUMMY SGT_D SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=2508 kw=DUMMY SGT_D SGT_C SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=2607 kw=DUMMY SGT_D SGT_C SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=2770 kw=DUMMY SGT_D SGT_C SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=2904 kw=DUMMY SGT_D SGT_C SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=1351 kw=DUMMY LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=1462 kw=DUMMY SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=1648 kw=DUMMY SGT_D SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=1759 kw=DUMMY SGT_D SGT_A SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=1759 kw=DUMMY SGT_D SGT_C SGT_A SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=1566 kw=DUMMY SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=1756 kw=DUMMY SGT_A LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=1778 kw=DUMMY SGT_D SGT_C SGT_A LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=1863 kw=SGT_D SGT_C SGT_A SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=1566 kw=DUMMY SGT_C SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=1778 kw=DUMMY SGT_D SGT_A LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=1841 kw=DUMMY SGT_C SGT_A SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=1894 kw=DUMMY LIGHT_1 SGT_D ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=2889 kw=DUMMY LIGHT_1 SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=3065 kw=DUMMY LIGHT_1 SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=3150 kw=DUMMY LIGHT_1 SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=3867 kw=DUMMY LIGHT_1 SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=4126 kw=DUMMY LIGHT_1 SGT_D SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=3333 kw=DUMMY LIGHT_1 SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=3884 kw=DUMMY LIGHT_1 SGT_D SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=3974 kw=DUMMY LIGHT_1 SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=4173 kw=DUMMY LIGHT_1 SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=5174 kw=DUMMY LIGHT_1 SGT_C SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=5264 kw=DUMMY LIGHT_1 SGT_C SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=2889 kw=DUMMY LIGHT_2 SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=2979 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=2741 kw=DUMMY LIGHT_2 SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=3156 kw=DUMMY LIGHT_2 SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=3867 kw=DUMMY LIGHT_2 SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=3588 kw=DUMMY LIGHT_2 SGT_D SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=3791 kw=DUMMY LIGHT_2 SGT_D SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=3890 kw=DUMMY LIGHT_2 SGT_D SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=4426 kw=DUMMY LIGHT_2 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=4516 kw=DUMMY LIGHT_2 SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=4732 kw=DUMMY LIGHT_2 SGT_D SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4832 outsize=4822 kw=DUMMY LIGHT_2 SGT_D SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4832 outsize=5433 kw=LIGHT_2 SGT_D SGT_C SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY SGT_D SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_D SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_D SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_D SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_D SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_C SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY SGT_D SGT_C SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_C SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_D SGT_C SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_D SGT_C SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_D SGT_C LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_D SGT_C SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_D SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_A SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_D SGT_C LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY SGT_C SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY SGT_C SGT_A LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY SGT_C SGT_A SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_D SGT_C LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_D SGT_C SGT_A LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY SGT_A SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY LIGHT_1 SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY LIGHT_1 SGT_D SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY LIGHT_1 SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY LIGHT_1 SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY LIGHT_1 SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY LIGHT_1 SGT_D SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY LIGHT_1 SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=LIGHT_1 SGT_D SGT_C SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY LIGHT_1 SGT_D SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY LIGHT_1 SGT_C SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY LIGHT_1 SGT_D SGT_C SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY LIGHT_1 SGT_D SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY LIGHT_2 SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY LIGHT_2 SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY LIGHT_2 SGT_D SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_C SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4832 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4832 outsize=7 kw=LIGHT_2 SGT_D SGT_C SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=3497 outsize=2120 kw=DUMMY SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3497 outsize=1373 kw=DUMMY SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3497 outsize=2176 kw=DUMMY LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3497 outsize=2024 kw=DUMMY LIGHT_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3497 outsize=3241 kw=DUMMY LIGHT_1 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3497 outsize=3462 kw=LIGHT_2 SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3497 outsize=7 kw=DUMMY SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3497 outsize=6 kw=DUMMY SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3497 outsize=7 kw=SGT_A LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3497 outsize=7 kw=LIGHT_1 SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3497 outsize=7 kw=DUMMY LIGHT_2 SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3497 outsize=7 kw=LIGHT_2 SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=1537 kw=DUMMY SGT_E SGT_D ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=1535 kw=DUMMY SGT_E SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=1622 kw=DUMMY SGT_D SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=1620 kw=DUMMY SGT_E SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1725 kw=DUMMY SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1723 kw=DUMMY SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1810 kw=DUMMY SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1808 kw=DUMMY SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=2297 kw=DUMMY SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=2295 kw=DUMMY SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2297 kw=DUMMY SGT_E SGT_D SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=2460 kw=DUMMY SGT_E SGT_D SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=2458 kw=DUMMY SGT_E SGT_D SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2498 kw=DUMMY SGT_E SGT_D SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=2494 kw=DUMMY SGT_E SGT_D SGT_C SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2661 kw=DUMMY SGT_D SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2659 kw=DUMMY SGT_E SGT_D SGT_C SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=2856 kw=DUMMY SGT_E SGT_D SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2854 kw=DUMMY SGT_C SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3019 kw=DUMMY SGT_E SGT_D SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3017 kw=DUMMY SGT_E SGT_C SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3055 kw=DUMMY SGT_E SGT_D SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3053 kw=DUMMY SGT_E SGT_C SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3218 kw=DUMMY SGT_D SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3216 kw=DUMMY SGT_E SGT_C SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1679 kw=DUMMY LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1677 kw=DUMMY SGT_C LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=1690 kw=DUMMY SGT_D SGT_C LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1764 kw=DUMMY SGT_E SGT_D SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=1775 kw=DUMMY SGT_D SGT_C SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1880 kw=DUMMY SGT_E SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=1891 kw=DUMMY SGT_E SGT_D SGT_C SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1963 kw=DUMMY SGT_C SGT_A SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=1976 kw=DUMMY SGT_D SGT_C SGT_A SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=1802 kw=DUMMY SGT_E SGT_D LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1791 kw=DUMMY SGT_D SGT_C LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1878 kw=DUMMY SGT_D SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1876 kw=DUMMY SGT_E SGT_D SGT_C SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2001 kw=DUMMY SGT_E SGT_D SGT_A LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=2077 kw=DUMMY SGT_A SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2084 kw=DUMMY SGT_C SGT_A SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1793 kw=DUMMY SGT_D LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1791 kw=DUMMY SGT_E SGT_C LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=1878 kw=DUMMY SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=1885 kw=DUMMY SGT_C SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2001 kw=DUMMY SGT_A LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=1999 kw=DUMMY SGT_E SGT_C SGT_A LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2086 kw=DUMMY SGT_E SGT_A SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2084 kw=SGT_E SGT_D SGT_C SGT_A SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2908 kw=DUMMY LIGHT_1 SGT_E SGT_D ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=2265 kw=DUMMY LIGHT_1 SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2265 kw=DUMMY LIGHT_1 SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3003 kw=DUMMY LIGHT_1 SGT_E SGT_D SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3118 kw=DUMMY LIGHT_1 SGT_E SGT_D SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2466 kw=DUMMY LIGHT_1 SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3201 kw=DUMMY LIGHT_1 SGT_E SGT_D SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3199 kw=DUMMY LIGHT_1 SGT_E SGT_D SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3621 kw=DUMMY LIGHT_1 SGT_E SGT_D SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3414 kw=DUMMY LIGHT_1 SGT_D SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3524 kw=DUMMY LIGHT_1 SGT_D SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3522 kw=DUMMY LIGHT_1 SGT_D SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3635 kw=DUMMY LIGHT_1 SGT_D SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3633 kw=DUMMY LIGHT_1 SGT_D SGT_C SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3153 kw=DUMMY LIGHT_1 SGT_E SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3151 kw=DUMMY LIGHT_1 SGT_E SGT_C SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3434 kw=DUMMY LIGHT_1 SGT_E SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3973 kw=DUMMY LIGHT_1 SGT_D SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3524 kw=DUMMY LIGHT_1 SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=4250 kw=DUMMY LIGHT_1 SGT_E SGT_D SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3620 kw=DUMMY LIGHT_1 SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=4174 kw=DUMMY LIGHT_1 SGT_D SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3721 kw=DUMMY LIGHT_1 SGT_E SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3719 kw=DUMMY LIGHT_1 SGT_E SGT_C SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=2736 kw=DUMMY LIGHT_2 SGT_D ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2642 kw=DUMMY LIGHT_2 SGT_E SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2729 kw=DUMMY LIGHT_2 SGT_E SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2812 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3118 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2930 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=2928 kw=DUMMY LIGHT_2 SGT_E SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3022 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3416 kw=DUMMY LIGHT_2 SGT_D SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3619 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3524 kw=DUMMY LIGHT_2 SGT_D SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3504 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3804 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3716 kw=DUMMY LIGHT_2 SGT_E SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3694 kw=DUMMY LIGHT_2 SGT_E SGT_C SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=3966 kw=DUMMY LIGHT_2 SGT_E SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=3991 kw=DUMMY LIGHT_2 SGT_D SGT_C SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=4056 kw=DUMMY LIGHT_2 SGT_E SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=4081 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=4194 kw=DUMMY LIGHT_2 SGT_D SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4621 outsize=4379 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_C SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4621 outsize=4251 kw=DUMMY LIGHT_2 SGT_C SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_E SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_E SGT_D SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_D SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_E SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_E SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_E SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_D SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_D SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_D SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_D SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_D SGT_C SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_D SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_E SGT_D SGT_C SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_D SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_E SGT_D SGT_C SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_D SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_D SGT_C SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_D SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_D SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_E LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_C SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_E SGT_C SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_D SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_D SGT_C SGT_A LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_A SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_C SGT_A SGT_B LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_E SGT_D SGT_C LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_D SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_D SGT_C SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_D SGT_A LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_C SGT_A LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_E SGT_A SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=SGT_E SGT_D SGT_C SGT_A SGT_B LIGHT_0 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_D LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_E SGT_C SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_C SGT_A LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY SGT_E SGT_D SGT_C SGT_A LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_D SGT_A SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY SGT_E SGT_C SGT_A SGT_B LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_1 SGT_D ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_1 SGT_D SGT_C ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_1 SGT_E SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_1 SGT_E SGT_D SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_1 SGT_E SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_1 SGT_D SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_1 SGT_E SGT_D SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_1 SGT_D SGT_C SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_1 SGT_D SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_1 SGT_D SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_1 SGT_E SGT_D SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_1 SGT_E SGT_D SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_1 SGT_D SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_1 SGT_E SGT_D SGT_C SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_1 SGT_E SGT_D SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_1 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_1 SGT_E SGT_D SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_1 SGT_E SGT_D SGT_C SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_1 SGT_E SGT_D SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_1 SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_1 SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_1 SGT_C SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_1 SGT_E SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_E ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_D SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_2 SGT_D SGT_C SGT_A ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_A SGT_B ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_E SGT_C SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_C SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_C SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_C SGT_A SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_C SGT_A SGT_B SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_E SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_C SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_C SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4621 outsize=6 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_C SGT_A SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=DUMMY LIGHT_2 SGT_E SGT_D SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4621 outsize=7 kw=LIGHT_2 SGT_E SGT_D SGT_C SGT_A SGT_B SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3732 outsize=2157 kw=DUMMY LIGHT_0 ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=3732 outsize=2273 kw=LIGHT_0 SHADOW_2 ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3732 outsize=3279 kw=DUMMY LIGHT_2 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3732 outsize=6 kw=DUMMY SHADOW_1 ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3732 outsize=6 kw=DUMMY LIGHT_1 ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3732 outsize=7 kw=DUMMY LIGHT_2 ok=1
+Unhandled exception: Readfile from pipe failed. GLE=Le canal de communication a été fermé.
+
+
+Quitting shader compiler process
